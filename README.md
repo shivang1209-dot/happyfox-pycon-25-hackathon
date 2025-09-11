@@ -29,7 +29,14 @@ Contains two main sections:
 - **Tickets**: Support requests with descriptions and timestamps
 
 ### Output: `output_result.json`
-Your solution should generate ticket assignments with justifications.
+Your solution should generate ticket assignments with the following fields:
+
+- **Mandatory:**
+   - Ticket ID
+   - Assigned Agent ID
+- **Optional:**
+   - Rationale/Justification for the assignment
+
 
 ## 🎯 Evaluation Criteria
 
