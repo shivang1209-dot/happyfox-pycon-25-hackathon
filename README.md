@@ -56,7 +56,7 @@ Your solution will be judged on:
 ```
 pycon25-hackathon/
 ├── dataset.json           # Input data (agents and tickets)
-├── output_result.json     # Expected output format
+├── output_result.json     # Expected output
 ├── README.md             # This file
 └── [your solution files] # Your implementation
 ```
