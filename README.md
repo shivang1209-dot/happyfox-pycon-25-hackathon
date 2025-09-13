@@ -86,7 +86,36 @@ This is a hackathon project - unleash your creativity and build an innovative so
 
 **Happy Hacking!** 🎉
 
+## Images
 
+<img width="1609" height="981" alt="image" src="https://github.com/user-attachments/assets/697d85eb-9a0b-48e1-a634-a06ae638f7b9" />
 
+## Future Scope
+### 🚀 **Future Scope - Key Enhancement Areas**
 
+#### 📊 **Data-Driven Intelligence**
+- Historical performance analytics (resolution times, success rates)
+- Predictive assignment using past performance data
 
+#### 🎯 **Advanced Workload Management**
+- Ticket complexity-based workload weighting (1x-5x multipliers)
+- Agent-specific workload thresholds based on experience
+- Real-time workload rebalancing
+
+#### �� **Real-Time Processing**
+- Live ticket assignment as tickets arrive
+- Dynamic agent availability management
+- Auto-escalation when no suitable agents available
+- Load shedding during capacity constraints
+
+#### 🤖 **AI/ML Integration**
+- NLP for ticket sentiment and complexity analysis
+- Predictive maintenance and capacity planning
+- Skill gap prediction
+- Escalation probability modeling
+
+### 📊 **Implementation Priority**
+1. **Phase 1**: Performance tracking + complexity weighting
+2. **Phase 2**: ML integration + real-time processing  
+3. **Phase 3**: Advanced analytics + multi-channel support
+4. **Phase 4**: Enterprise features + compliance
