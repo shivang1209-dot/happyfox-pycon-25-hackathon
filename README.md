@@ -2,6 +2,8 @@
 
 Welcome to the PyCon25 Hackathon project! 🚀
 
+Once you are done with the hackathon, share your github link here: https://forms.gle/gnR62EoZUfeA8zqJ9
+
 ## 📋 Project Overview
 
 ### Problem Statement
